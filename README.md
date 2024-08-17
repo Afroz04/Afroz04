@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Afroz04
-- 👀 I’m interested in Software **Developer**
+- 👀 I’m interested in **Software Developer**
 - 🌱 I’m currently learning **Java**
 - 📫 How to reach me afrozalam01212@gmail.com
 
