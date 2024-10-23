@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Afroz04
-- 👀 I’m interested in **Software Developer**
-- 🌱 I’m currently learning **Java**
+- 👋 Hi, I’m Afroz
+- 👀 I’m interested in **Data Science **
+- 🌱 I’m currently learning **Python**
 - 📫 How to reach me afrozalam01212@gmail.com
 
 
